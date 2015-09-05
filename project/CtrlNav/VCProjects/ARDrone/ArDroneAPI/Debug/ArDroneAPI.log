@@ -1,0 +1,203 @@
+﻿生成启动时间为 2015/9/5 17:51:16。
+     1>项目“D:\CtrlNav\project\CtrlNav\VCProjects\ARDrone\ArDroneAPI\ArDroneAPI.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\ArDroneAPI.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Debug\ArDroneAPI.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\programfiles\vs2013\VC\bin\CL.exe /c /ID:\CtrlNav\project\CtrlNav\VCProjects\ARDrone\ /ID:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\win32 /ID:\CtrlNav\ARDroneLib\VP_SDK\VP_Os\win32 /ID:\CtrlNav\ARDroneLib\Soft\Lib /ID:\CtrlNav\ARDroneLib\Soft\Common /ID:\CtrlNav\ARDroneLib /ID:\CtrlNav\ARDroneLib\VLIB /ID:\CtrlNav\project\CtrlNav\VCProjects\ARDrone\ArDroneAPI\ /ID:\CtrlNav\ARDroneLib\VP_SDK /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\ardrone_api.c ..\..\..\..\..\ARDroneLib\Soft\Lib\ardrone_tool\AT\ardrone_at_mutex.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Control\ardrone_control.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Control\ardrone_control_ack.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Control\ardrone_control_configuration.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Control\ardrone_control_soft_update.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\UI\ardrone_input.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Navdata\ardrone_navdata_client.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Control\ardrone_navdata_control.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Navdata\ardrone_navdata_file.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\ardrone_time.c ..\..\..\..\..\ARDroneLib\Soft\Lib\ardrone_tool\ardrone_tool_configuration.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\UI\ardrone_tool_ui.c D:\CtrlNav\ARDroneLib\VP_SDK\ATcodec\ATcodec.c D:\CtrlNav\ARDroneLib\VP_SDK\ATcodec\ATcodec_api.c D:\CtrlNav\ARDroneLib\VP_SDK\ATcodec\ATcodec_Buffer.c D:\CtrlNav\ARDroneLib\VP_SDK\ATcodec\ATcodec_Memory.c D:\CtrlNav\ARDroneLib\VP_SDK\ATcodec\ATcodec_Sorted_List.c D:\CtrlNav\ARDroneLib\VP_SDK\ATcodec\ATcodec_Tree.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Video\buffer_to_picture_stage.c ..\..\..\..\..\ARDroneLib\Soft\Lib\ardrone_tool\config_keys.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Com\config_serial.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Com\config_wifi.c D:\CtrlNav\ARDroneLib\Soft\Lib\iniparser3.0b\src\dictionary.c D:\CtrlNav\ARDroneLib\Soft\Lib\Maths\filter.c D:\CtrlNav\ARDroneLib\Soft\Lib\iniparser3.0b\src\iniparser.c D:\CtrlNav\ARDroneLib\Soft\Lib\Maths\maths.c D:\CtrlNav\ARDroneLib\Soft\Lib\Maths\matrices.c D:\CtrlNav\ARDroneLib\Soft\Lib\Maths\matrix3d.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Navdata\navdata.c D:\CtrlNav\ARDroneLib\VLIB\P263\p263_codec.c D:\CtrlNav\ARDroneLib\VLIB\P263\p263_gob_layer.c D:\CtrlNav\ARDroneLib\VLIB\P263\p263_huffman.c D:\CtrlNav\ARDroneLib\VLIB\P263\p263_mb_layer.c D:\CtrlNav\ARDroneLib\VLIB\P263\p263_picture_layer.c D:\CtrlNav\ARDroneLib\Soft\Lib\Maths\time.c D:\CtrlNav\ARDroneLib\VLIB\UVLC\uvlc.c D:\CtrlNav\ARDroneLib\VLIB\UVLC\uvlc_codec.c D:\CtrlNav\ARDroneLib\VLIB\UVLC\uvlc_gob_layer.c D:\CtrlNav\ARDroneLib\VLIB\UVLC\uvlc_mb_layer.c D:\CtrlNav\ARDroneLib\VLIB\UVLC\uvlc_picture_layer.c D:\CtrlNav\ARDroneLib\VLIB\video_codec.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Video\video_com_stage.c D:\CtrlNav\ARDroneLib\VLIB\video_controller.c D:\CtrlNav\ARDroneLib\VLIB\video_dct.c D:\CtrlNav\ARDroneLib\VLIB\video_huffman.c D:\CtrlNav\ARDroneLib\VLIB\video_macroblock.c D:\CtrlNav\ARDroneLib\VLIB\video_mem32.c D:\CtrlNav\ARDroneLib\VLIB\video_packetizer.c D:\CtrlNav\ARDroneLib\VLIB\video_picture.c D:\CtrlNav\ARDroneLib\VLIB\video_quantizer.c D:\CtrlNav\ARDroneLib\Soft\Lib\ardrone_tool\Video\video_stage_recorder.c D:\CtrlNav\ARDroneLib\VLIB\Platform\x86\video_utils.c D:\CtrlNav\ARDroneLib\Soft\Lib\Maths\vision_math.c D:\CtrlNav\ARDroneLib\VLIB\Stages\vlib_stage_decode.c D:\CtrlNav\ARDroneLib\VLIB\Stages\vlib_stage_encode.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Api\vp_api.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Api\vp_api_error.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Api\vp_api_io_multi_stage.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Api\vp_api_stage.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Api\vp_api_supervisor.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Api\vp_api_thread_helper.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\win32\vp_com.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\win32\vp_com_config_itf.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\vp_com_error.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\win32\vp_com_socket.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\win32\vp_com_socket_utils.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Com\win32\vp_com_wifi.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Os\win32\vp_os_delay.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Os\vp_os_error_handling.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Os\vp_os_malloc.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Os\win32\vp_os_signal.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Os\win32\vp_os_thread.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_buffer_to_picture.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_configs.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_frame_pipe.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_io_buffer.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_io_com.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_io_console.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_io_file.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_o_sdl.c D:\CtrlNav\ARDroneLib\VP_SDK\VP_Stages\vp_stages_yuv2rgb.c
+         vp_stages_yuv2rgb.c
+         vp_stages_o_sdl.c
+         vp_stages_io_file.c
+     1>d:\ctrlnav\ardronelib\vp_sdk\vp_stages\vp_stages_io_file.c(40): warning C4101: “y_size”: 未引用的局部变量
+     1>d:\ctrlnav\ardronelib\vp_sdk\vp_stages\vp_stages_io_file.c(39): warning C4101: “c”: 未引用的局部变量
+     1>d:\ctrlnav\ardronelib\vp_sdk\vp_stages\vp_stages_io_file.c(40): warning C4101: “c_size”: 未引用的局部变量
+         vp_stages_io_console.c
+         vp_stages_io_com.c
+         vp_stages_io_buffer.c
+         vp_stages_frame_pipe.c
+         vp_stages_configs.c
+         vp_stages_buffer_to_picture.c
+         vp_os_thread.c
+         vp_os_signal.c
+         vp_os_malloc.c
+         vp_os_error_handling.c
+         vp_os_delay.c
+         vp_com_wifi.c
+         vp_com_socket_utils.c
+         vp_com_socket.c
+         vp_com_error.c
+         vp_com_config_itf.c
+         vp_com.c
+         正在生成代码...
+         正在编译...
+         vp_api_thread_helper.c
+         vp_api_supervisor.c
+         vp_api_stage.c
+         vp_api_io_multi_stage.c
+         vp_api_error.c
+         vp_api.c
+         vlib_stage_encode.c
+         vlib_stage_decode.c
+         vision_math.c
+         video_utils.c
+         video_stage_recorder.c
+         video_quantizer.c
+         video_picture.c
+         video_packetizer.c
+         video_mem32.c
+     1>d:\ctrlnav\ardronelib\vlib\video_mem32.c(39): warning C4013: “bswap”未定义；假设外部返回 int
+         video_macroblock.c
+         video_huffman.c
+         video_dct.c
+         video_controller.c
+         video_com_stage.c
+         正在生成代码...
+         正在编译...
+         video_codec.c
+         uvlc_picture_layer.c
+         uvlc_mb_layer.c
+         uvlc_gob_layer.c
+         uvlc_codec.c
+     1>d:\ctrlnav\ardronelib\vlib\uvlc\uvlc_codec.c(270): warning C4013: “clz”未定义；假设外部返回 int
+         uvlc.c
+     1>d:\ctrlnav\ardronelib\vlib\uvlc\uvlc.c(29): warning C4013: “clz”未定义；假设外部返回 int
+         time.c
+         p263_picture_layer.c
+         p263_mb_layer.c
+         p263_huffman.c
+         p263_gob_layer.c
+         p263_codec.c
+         navdata.c
+         matrix3d.c
+         matrices.c
+         maths.c
+         iniparser.c
+     1>d:\ctrlnav\ardronelib\soft\lib\iniparser3.0b\src\iniparser.c(851): warning C4090: “函数”: 不同的“const”限定符
+         filter.c
+         dictionary.c
+         config_wifi.c
+     1>d:\ctrlnav\ardronelib\soft\lib\ardrone_tool\com\config_wifi.c(93): warning C4133: “函数”: 从“timeval *”到“const char *”的类型不兼容
+         正在生成代码...
+         正在编译...
+         config_serial.c
+         config_keys.c
+         buffer_to_picture_stage.c
+         ATcodec_Tree.c
+         ATcodec_Sorted_List.c
+         ATcodec_Memory.c
+         ATcodec_Buffer.c
+         ATcodec_api.c
+         ATcodec.c
+         ardrone_tool_ui.c
+         ardrone_tool_configuration.c
+         ardrone_time.c
+         ardrone_navdata_file.c
+         ardrone_navdata_control.c
+         ardrone_navdata_client.c
+         ardrone_input.c
+         ardrone_control_soft_update.c
+         ardrone_control_configuration.c
+     1>d:\ctrlnav\ardronelib\soft\lib\ardrone_tool\control\ardrone_control_configuration.c(50): warning C4101: “i”: 未引用的局部变量
+         ardrone_control_ack.c
+         ardrone_control.c
+         正在生成代码...
+         正在编译...
+         ardrone_at_mutex.c
+         ardrone_api.c
+         正在生成代码...
+       Lib:
+         d:\programfiles\vs2013\VC\bin\Lib.exe /OUT:"D:\CtrlNav\project\CtrlNav\VCProjects\ARDrone\Debug\ArDroneAPI.lib" /NOLOGO Debug\ardrone_api.obj
+         Debug\ardrone_at_mutex.obj
+         Debug\ardrone_control.obj
+         Debug\ardrone_control_ack.obj
+         Debug\ardrone_control_configuration.obj
+         Debug\ardrone_control_soft_update.obj
+         Debug\ardrone_input.obj
+         Debug\ardrone_navdata_client.obj
+         Debug\ardrone_navdata_control.obj
+         Debug\ardrone_navdata_file.obj
+         Debug\ardrone_time.obj
+         Debug\ardrone_tool_configuration.obj
+         Debug\ardrone_tool_ui.obj
+         Debug\ATcodec.obj
+         Debug\ATcodec_api.obj
+         Debug\ATcodec_Buffer.obj
+         Debug\ATcodec_Memory.obj
+         Debug\ATcodec_Sorted_List.obj
+         Debug\ATcodec_Tree.obj
+         Debug\buffer_to_picture_stage.obj
+         Debug\config_keys.obj
+         Debug\config_serial.obj
+         Debug\config_wifi.obj
+         Debug\dictionary.obj
+         Debug\filter.obj
+         Debug\iniparser.obj
+         Debug\maths.obj
+         Debug\matrices.obj
+         Debug\matrix3d.obj
+         Debug\navdata.obj
+         Debug\p263_codec.obj
+         Debug\p263_gob_layer.obj
+         Debug\p263_huffman.obj
+         Debug\p263_mb_layer.obj
+         Debug\p263_picture_layer.obj
+         Debug\time.obj
+         Debug\uvlc.obj
+         Debug\uvlc_codec.obj
+         Debug\uvlc_gob_layer.obj
+         Debug\uvlc_mb_layer.obj
+         Debug\uvlc_picture_layer.obj
+         Debug\video_codec.obj
+         Debug\video_com_stage.obj
+         Debug\video_controller.obj
+         Debug\video_dct.obj
+         Debug\video_huffman.obj
+         Debug\video_macroblock.obj
+         Debug\video_mem32.obj
+         Debug\video_packetizer.obj
+         Debug\video_picture.obj
+         Debug\video_quantizer.obj
+         Debug\video_stage_recorder.obj
+         Debug\video_utils.obj
+         Debug\vision_math.obj
+         Debug\vlib_stage_decode.obj
+         Debug\vlib_stage_encode.obj
+         Debug\vp_api.obj
+         Debug\vp_api_error.obj
+         Debug\vp_api_io_multi_stage.obj
+         Debug\vp_api_stage.obj
+         Debug\vp_api_supervisor.obj
+         Debug\vp_api_thread_helper.obj
+         Debug\vp_com.obj
+         Debug\vp_com_config_itf.obj
+         Debug\vp_com_error.obj
+         Debug\vp_com_socket.obj
+         Debug\vp_com_socket_utils.obj
+         Debug\vp_com_wifi.obj
+         Debug\vp_os_delay.obj
+         Debug\vp_os_error_handling.obj
+         Debug\vp_os_malloc.obj
+         Debug\vp_os_signal.obj
+         Debug\vp_os_thread.obj
+         Debug\vp_stages_buffer_to_picture.obj
+         Debug\vp_stages_configs.obj
+         Debug\vp_stages_frame_pipe.obj
+         Debug\vp_stages_io_buffer.obj
+         Debug\vp_stages_io_com.obj
+         Debug\vp_stages_io_console.obj
+         Debug\vp_stages_io_file.obj
+         Debug\vp_stages_o_sdl.obj
+         Debug\vp_stages_yuv2rgb.obj
+     1>time.obj : warning LNK4006: _gettimeofday 已在 video_stage_recorder.obj 中定义；已忽略第二个定义
+     1>ardrone_navdata_file.obj : warning LNK4006: _gettimeofday 已在 video_stage_recorder.obj 中定义；已忽略第二个定义
+     1>ardrone_api.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+         ArDroneAPI.vcxproj -> D:\CtrlNav\project\CtrlNav\VCProjects\ARDrone\Debug\ArDroneAPI.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ArDroneAPI.unsuccessfulbuild”。
+         正在对“Debug\ArDroneAPI.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\CtrlNav\project\CtrlNav\VCProjects\ARDrone\ArDroneAPI\ArDroneAPI.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:36.10
